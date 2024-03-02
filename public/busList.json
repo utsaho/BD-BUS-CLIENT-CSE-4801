@@ -1,0 +1,220 @@
+[
+    {
+        "Operator": "Ena Transport (Pvt) Ltd",
+        "name": "1, Hino 1J Pluss, Non AC",
+        "route": "Dhaka -Shaistaganj -Sylhet",
+        "availableSeats":[
+            1, 2,
+            3, 4,
+            5, 6,
+            7, 8,
+            9, 10,
+            11, 12,
+            13, 14,
+            15, 16,
+            17, 18,
+            19, 20,
+            21, 22,
+            23, 24,
+            25, 26,
+            27, 28,
+            29, 30,
+            31, 32,
+            33, 34,
+            35, 36,
+            37, 38,
+            39, 40
+        ],
+        "stoppages":[
+            {
+                "name": "Dhaka",
+                "price": 680,
+                "upTime": "11:30 AM",
+                "downTime": "5:00 AM"
+            },
+            {
+                "name": "Narayanganj",
+                "price": 500,
+                "upTime": "10:30 AM",
+                "downTime": "6:30 AM"
+            },
+            {
+                "name": "BishwaRoad",
+                "price": 450,
+                "upTime": "9:30 AM",
+                "downTime": "8:30 AM"
+            },
+            {
+                "name": "Madhabpur",
+                "price": 300,
+                "upTime": "8:30 AM",
+                "downTime": "9:00 AM"
+            },
+            {
+                "name": "Shaistaganj",
+                "price": 200,
+                "upTime": "7:30 AM",
+                "downTime": "10:15 AM"
+            },
+            {
+                "name": "Sylhet",
+                "price": 0,
+                "upTime": "6:30 AM",
+                "downTime": "11:45 AM"
+            }
+        ]
+    },
+    {
+        "Operator": "Ena Transport (Pvt) Ltd",
+        "name": "2, Hino 1J Pluss, AC",
+        "route": "Dhaka -Shaistaganj -Sylhet",
+        "availableSeats":[
+            1, 2,
+            3, 4,
+            5, 6,
+            7, 8,
+            9, 10,
+            11, 12,
+            13, 14,
+            15, 16,
+            17, 18,
+            19, 20,
+            21, 22,
+            23, 24,
+            25, 26,
+            27, 28,
+            29, 30,
+            31, 32,
+            33, 34,
+            35, 36,
+            37, 38,
+            39, 40
+        ],
+        "stoppages":[
+            {
+                "name": "Dhaka",
+                "price": 680,
+                "upTime": "11:30 AM",
+                "downTime": "3:10 PM"
+            },
+            {
+                "name": "Narayanganj",
+                "price": 580,
+                "upTime": "9:30 AM",
+                "downTime": "4:45 PM"
+            },
+            {
+                "name": "Madhabpur",
+                "price": 300,
+                "upTime": "8:30 AM",
+                "downTime": "5:00 PM"
+            },
+            {
+                "name": "Shaistaganj",
+                "price": 200,
+                "upTime": "7:30 AM",
+                "downTime": "8:25 PM"
+            },
+            {
+                "name": "Sylhet",
+                "price": 0,
+                "upTime": "6:30 AM",
+                "downTime": "10:00 PM"
+            }
+        ]
+    },
+    {
+        "Operator": "Hanif Enterprise",
+        "name": "Hino, AK1J Super Plus Non AC",
+        "route": "Dhaka - Ashuganj - Sayestagong - Sherpur - Syhlet",
+        "availableSeats":[
+            1, 2,
+            3, 4,
+            5, 6,
+            7, 8,
+            9, 10,
+            11, 12,
+            13, 14,
+            15, 16,
+            17, 18,
+            19, 20,
+            21, 22,
+            23, 24,
+            25, 26,
+            27, 28,
+            29, 30,
+            31, 32,
+            33, 34,
+            35, 36,
+            37, 38,
+            39, 40
+        ],
+        "stoppages":[
+            {
+                "name": "Dhaka",
+                "price": 700,
+                "upTime": "11:30 AM",
+                "downTime": "12:15 PM"
+            },
+            {
+                "name": "Madhabpur",
+                "price": 250,
+                "upTime": "8:30 AM",
+                "downTime": "4:10 PM"
+            },
+            {
+                "name": "Shaistaganj",
+                "price": 200,
+                "upTime": "7:30 AM",
+                "downTime": "5:00 PM"
+            },
+            {
+                "name": "Sylhet",
+                "price": 0,
+                "upTime": "6:30 AM",
+                "downTime": "6:50 PM"
+            }
+        ]
+    },
+    {
+        "Operator": "Ena Transport (Pvt) Ltd",
+        "name": "3, Hino 1J Pluss, AC",
+        "route": "Dhaka -Shaistaganj -Sylhet",
+        "availableSeats":[
+            1, 2,
+            3, 4,
+            5, 6,
+            7, 8,
+            9, 10,
+            11, 12,
+            13, 14,
+            15, 16,
+            17, 18,
+            19, 20,
+            21, 22,
+            23, 24,
+            25, 26,
+            27, 28,
+            29, 30,
+            31, 32,
+            33, 34,
+            35, 36,
+            37, 38,
+            39, 40
+        ],
+        "stoppages":[
+            {
+                "name": "Dhaka",
+                "price": 680,
+                "upTime": "11:30 AM",
+                "downTime": "11:05 PM"
+            },
+            {
+                "name": "Narayanganj",
+                "price": 580,
+                "upTime": "9:30 AM",
+                "downTime": "5:30 PM"
+            }
+        ]
+    }
+]

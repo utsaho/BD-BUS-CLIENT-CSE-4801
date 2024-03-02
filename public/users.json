@@ -1,0 +1,18 @@
+[
+    {
+        "name":"Utsho",
+        "email":"freeusers.any@gmail.com",
+        "role":"admin",
+        "operatorName":"Ena Transport (Pvt) Ltd"
+    },
+    {
+        "name":"Utsho",
+        "email":"pipul.boddyo@gmail.com",
+        "role":"superAdmin"
+    },
+    {
+        "name":"Utsho",
+        "email":"utsho111099@gmail.com",
+        "role":"user"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Dhaka",
+        "distance": "20km"
+    },
+    {
+        "name": "Sylhet",
+        "distance": "20km"
+    },
+    {
+        "name": "Narayanganj",
+        "distance": "50km"
+    },
+    {
+        "name": "Habiganj",
+        "distance": "40km"
+    },
+    {
+        "name": "Shaistaganj",
+        "distance": "6km"
+    },
+    {
+        "name": "Hajiganj",
+        "distance": "40km"
+    },
+    {
+        "name": "Chittagong",
+        "distance": "40km"
+    },
+    {
+        "name": "Khulna",
+        "distance": "15km"
+    }
+]

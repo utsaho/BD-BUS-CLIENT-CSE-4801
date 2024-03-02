@@ -1,0 +1,7 @@
+.Oops {
+    background: linear-gradient(to right, rgba(255, 68, 0, 0.658), black, rgb(128, 126, 0));
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 200px;
+    font-family: 'Courier New', Courier, monospace;
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "23KJK2KJMD",
+        "name": "Utsho",
+        "email": "Utsho111099@gmail.com",
+        "mobile": "01304245824",
+        "busName": "Ena Transport",
+        "journeyInfo":{
+            "from": "Sylhet",
+            "to": "Shaistaganj",
+            "journeyData": "jan 20, 2024",
+            "returnDate": "",
+            "class": "non AC",
+            "paymentMethod": "bKash"
+        }
+    },
+    {
+        "id": "23KJK2KJME",
+        "name": "Kibria",
+        "email": "kibria.golam@gmail.com",
+        "mobile": "01576700924",
+        "busName": "Green Line",
+        "journeyInfo":{
+            "from": "Sylhet",
+            "to": "Dhaka",
+            "journeyData": "jan 22, 2024",
+            "returnDate": "",
+            "class": "AC",
+            "paymentMethod": "bKash"
+        }
+    }
+]
